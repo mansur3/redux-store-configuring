@@ -1,0 +1,69 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": "typicode"
+    },
+    {
+      "title": "this is india",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "another thingb",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "add",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "add",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "add",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "add",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "King Ragnar that's is my name",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "this is out india",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "this is the new task",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "Another task",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "this is somethting",
+      "status": false,
+      "id": 13
+    }
+  ]
+}
